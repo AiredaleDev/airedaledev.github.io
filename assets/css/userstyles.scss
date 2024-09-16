@@ -1,0 +1,39 @@
+$dark-bg: #2e3440;
+$dark-text-color: #e5e9f0;
+$dark-text-color-bold: #eceff4;
+$nord7: #8fbcbb;
+$nord8: #88c0d0;
+$nord9: #81a1c1;
+$nord10: #5e81ac;
+
+body {
+    background-color: $dark-bg;
+}
+
+main {
+    background-color: inherit;
+}
+
+nav a {
+    color: $dark-text-color;
+}
+
+.page-header {
+    border-bottom: 2px solid $nord9;
+}
+
+.myname a {
+    color: $dark-text-color-bold;
+}
+
+p {
+    color: $dark-text-color;
+}
+
+th {
+    color: $dark-text-color;
+}
+
+footer {
+    background-color: inherit;
+}

@@ -25,11 +25,33 @@ the abstraction in the first place, and&lt;/p&gt;</description>
 My research is focused in compilers,&lt;/p&gt;
 &lt;p&gt;I have always loved peeling back layers of abstraction. Through understanding how an abstraction layer works, I learn what motivated someone to build
 the abstraction in the first place, and&lt;/p&gt;
-&lt;p&gt;I wrote a time-travelling simulator and debugger in Haskell to test if my model of&lt;/p&gt;
+&lt;p&gt;I wrote a time-travelling simulator and debugger in Haskell to test my understanding&lt;/p&gt;
 &lt;p&gt;My favorite aspect of programming language design is how different logics (like linear logic) can be used to implement seemingly innocuous design decisions.&lt;/p&gt;
 &lt;p&gt;If you have any further questions, please reach out to me at &lt;a href=&#34;mailto:choechst3@gatech.edu&#34;&gt;choechst3@gatech.edu&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cheers!&lt;/p&gt;
 &lt;p&gt;Cameron Hoechst&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Professional Documents</title>
+      <link>//localhost:1313/prof_docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/prof_docs/</guid>
+      <description>&lt;img src=&#34;../img/ospo_poster.png&#34;  alt=&#34;My poster should be here... is it not loading?&#34;  class=&#34;left&#34;  style=&#34;border-radius: 4px&#34;    /&gt;
+
+
+&lt;p&gt;This particular poster does not represent me on its own, but rather the presentation associated with it.
+If I can find a video of my presentation, I&amp;rsquo;ll replace the poster with it.&lt;/p&gt;
+&lt;p&gt;[https://docs.google.com/presentation/d/1nvGP49E6-fUlYOcYq-CBz1M-m2AVBIUCGbBIHqc6SCI/edit#slide=id.g300b7276ea5_0_148](Here are the slides for recent presentation I gave for Dependently-Typed), the PL-Theory and Compiler club on campus.&lt;/p&gt;</description>
+      <content>
+&lt;img src=&#34;../img/ospo_poster.png&#34;  alt=&#34;My poster should be here... is it not loading?&#34;  class=&#34;left&#34;  style=&#34;border-radius: 4px&#34;    /&gt;
+
+
+&lt;p&gt;This particular poster does not represent me on its own, but rather the presentation associated with it.
+If I can find a video of my presentation, I&amp;rsquo;ll replace the poster with it.&lt;/p&gt;
+&lt;p&gt;[https://docs.google.com/presentation/d/1nvGP49E6-fUlYOcYq-CBz1M-m2AVBIUCGbBIHqc6SCI/edit#slide=id.g300b7276ea5_0_148](Here are the slides for recent presentation I gave for Dependently-Typed), the PL-Theory and Compiler club on campus.&lt;/p&gt;
 </content>
     </item>
     

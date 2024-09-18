@@ -29,6 +29,10 @@ theme = "re-terminal"
         identifier = "example_cover_letter"
         name = "Example Cover Letter"
         url = "/example_cover_letter"
+      [[languages.en.menu.main]]
+      	identifier = "prof_docs"
+        name = "Professional Documents"
+        url = "/prof_docs"
 
 
   [[module.imports]]

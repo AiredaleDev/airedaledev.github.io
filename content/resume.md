@@ -4,5 +4,5 @@ title: "Resume"
 draft: false
 ---
 
-{{< embed-pdf url="./assets/pdf/resume.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="../pdf/resume.pdf" hidePaginator="true" >}}
 

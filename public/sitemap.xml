@@ -7,6 +7,8 @@
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/example_cover_letter/</loc>
+  </url><url>
     <loc>//localhost:1313/resume/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>

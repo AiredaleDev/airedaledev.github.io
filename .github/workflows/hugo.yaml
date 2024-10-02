@@ -61,7 +61,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Copy Assets
-        run: ./.github/workflows/copy_assets.sh
+        run: bash .github/workflows/copy_assets.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

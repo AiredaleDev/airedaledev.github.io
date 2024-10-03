@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAQA,IAAK;EACD,gBAAgB,EATV,OAAO;;AAYjB,IAAK;EACD,gBAAgB,EAAE,OAAO;;AAG7B,KAAM;EACF,KAAK,EAhBS,OAAO;;AAmBzB,YAAa;EACT,aAAa,EAAE,iBAAgB;;AAGnC,SAAU;EACN,KAAK,EAvBc,OAAO;;AA0B9B,CAAE;EACE,KAAK,EA5BS,OAAO;;AA+BzB,EAAG;EACC,KAAK,EAhCS,OAAO;;AAmCzB,MAAO;EACH,gBAAgB,EAAE,OAAO",
-"sources": ["userstyles.scss"],
-"names": [],
-"file": "userstyles.css"
-}
